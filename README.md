@@ -58,7 +58,7 @@ Output Layer: A fully connected layer with units corresponding to the number of 
 
 ## 5. Performance
 
-Accuracy: The model achieved 92% accuracy on the test set.
+Accuracy: The model achieved  97.92% accuracy on the test set.
 
 Other Metrics: Performance was evaluated using Precision, Recall, and F1-score to provide a comprehensive evaluation of the model.
 
